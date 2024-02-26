@@ -1,6 +1,4 @@
-### Hi there 👋
-
-👋 Hey there! I'm Kate Cook - Future-Forward Coder & Explorer 🚀
+### 👋 Hey there! I'm Kate Cook - Future-Forward Coder & Explorer 🚀
 
 I am a full-stack developer with a strong interest in front-end development and UI and UX design.
 
