@@ -10,7 +10,7 @@ Why have something that works if no one wants to use it because it's not appeali
 <br><br>   
 I am a part of all spheres of life as a blogger, social media enthusiast, artist, and comprehensive sciences major.
 <br><br>       
-I am currently obtaining a UX certificate from Google and am seeking a job within the tech industry.  
+I am currently obtaining a UX certificate from Google and am seeking a job where I can put my communication and collaboration skills to use.  
  
 
 [Here's my personal portfolio](http://cookportfolio.infinityfreeapp.com "personal portfolio")
