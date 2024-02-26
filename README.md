@@ -2,13 +2,21 @@
 
 I am a full-stack developer with a strong interest in front-end development and UI and UX design.
 
-Constantly trying to find new ways to design applications, websites, and programs, I focus on both functionality and aesthetics. Why have something that works if no one wants to use it because it's not appealing!? 
+Constantly trying to find new ways to design applications, websites, and programs, I focus on both functionality and aesthetics.
 
-I am a part of all spheres of life as a blogger, social media enthusiast, artist, and self-proclaimed scientist (if Googling can count as research)🔭. 
+Why have something that works if no one wants to use it because it's not appealing!? A little extra css never hurt anyone! 
 
-I am currently obtaining a UX certificate from Google and am seeking a job within the tech industry!
+I am a part of all spheres of life as a blogger, social media enthusiast, artist, and comprehensive sciences major.
 
-Welcome to my Github! please contact me at Katecookk4@gmail.com😄
+I am currently obtaining a UX certificate from Google and am seeking a job within the tech industry.
+
+[Here's my personal portfolio](cookportfolio.infinityfreeapp.com "personal portfolio")
+
+Welcome to my Github! You can contact me at Katecookk4@gmail.com 😄
+
+
+
+![](http://url/to/img.png)
 
 
 
