@@ -14,9 +14,8 @@ I am currently obtaining a UX certificate from Google and am seeking a job withi
 
 Welcome to my Github! You can contact me at Katecookk4@gmail.com 😄
 
+<img width="389" alt="Screen Shot 2024-02-26 at 11 14 36 PM" src="https://github.com/kcook10/kcook10/assets/131708080/20c3f9f3-7093-48db-9fd3-657b354a8788">
 
-
-![](http://url/to/img.png)
 
 
 
