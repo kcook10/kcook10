@@ -8,7 +8,7 @@ Constantly trying to find new ways to design applications, websites, and program
 <br><br>    
 Why have something that works if no one wants to look at it!?✨A little extra css never hurt anyone.✨
 <br><br>   
-I am a part of all spheres of life as a blogger, social media enthusiast, artist, and comprehensive sciences major.
+I am a part of all spheres of life as a blogger, social media enthusiast, artist, and comprehensive sciences student.
 <br><br>       
 I am currently obtaining a UX certificate from Google and am seeking a job where I can put my communication and collaboration skills to use.  
  
