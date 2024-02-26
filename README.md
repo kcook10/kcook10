@@ -10,7 +10,7 @@ I am a part of all spheres of life as a blogger, social media enthusiast, artist
 
 I am currently obtaining a UX certificate from Google and am seeking a job within the tech industry.
 
-[Here's my personal portfolio](cookportfolio.infinityfreeapp.com "personal portfolio")
+[Here's my personal portfolio](http://cookportfolio.infinityfreeapp.com "personal portfolio")
 
 Welcome to my Github! You can contact me at Katecookk4@gmail.com 😄
 
